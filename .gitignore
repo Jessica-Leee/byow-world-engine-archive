@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+out/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build output
+build/
+target/
+
+# Logs
+*.log 
