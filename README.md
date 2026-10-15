@@ -1,5 +1,7 @@
 # BYOW — Legacy Course Snapshot
 
+**Historical repository.** The organized version is [byow-world-engine](https://github.com/Jessica-Leee/byow-world-engine). This earlier snapshot is retained for reference and archived; its original code and known limitations remain documented below.
+
 A tile-based world exploration project from **UC Berkeley CS 61B, Fall 2024**, Project 3: Build Your Own World. This repository preserves an earlier course implementation. It combines student project code with supplied rendering, utility, demonstration, and autograder-support code; individual contributions are not mapped here.
 
 ## Implemented features
