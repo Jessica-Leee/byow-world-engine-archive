@@ -1,4 +1,4 @@
-# BYOW — Legacy Course Snapshot
+# BYOW World Exploration — CS 61B (Archive)
 
 **Historical repository.** The organized version is [byow-world-engine](https://github.com/Jessica-Leee/byow-world-engine). This earlier snapshot is retained for reference and archived; its original code and known limitations remain documented below.
 
